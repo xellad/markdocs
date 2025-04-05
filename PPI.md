@@ -1,4 +1,4 @@
-##### How to calculate PPI
+## How to calculate PPI
 
 ###### Исходные данные:
 
